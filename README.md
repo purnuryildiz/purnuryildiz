@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Purnur</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 
+<p align="left">With a Bachelor’s in Bioengineering, I’ve transitioned smoothly into tech, now working as a React Native Developer with 2.5 years of experience, including 1.5 years in React Native. I enjoy building new projects and improving user experiences through innovative design and functionality. My goal is to create impactful, high-performing apps for iOS and Android, with seamless functionality and strong user engagement. <p/>
+
 - 🔭 I’m currently working on  React, React Native
 
 - 📫 How to reach me **purnuryildiz17@gmail.com**
